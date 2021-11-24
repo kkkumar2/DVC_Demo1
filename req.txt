@@ -1,0 +1,4 @@
+pyyaml
+click
+pandas
+python-dotenv
