@@ -61,3 +61,17 @@ Project Organization
 ```python
 python setup.py sdist bdist_wheel
 ```
+
+## Tox Commands to be used 
+```bash
+tox    # to run tox.ini which will run pytest with
+```
+## for rebuilding 
+```bash
+tox -r    # to reload the pytest environment if any changes done to req.txt
+```
+
+## Pytest commands
+```bash
+pytest -v  # to run test functions with
+```
