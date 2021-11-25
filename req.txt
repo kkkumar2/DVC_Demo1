@@ -2,3 +2,5 @@ pyyaml
 click
 pandas
 python-dotenv
+pytest
+tox

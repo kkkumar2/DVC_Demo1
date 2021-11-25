@@ -55,3 +55,9 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
+## to create a Tar file or wheel file and u can share this with others 
+```python
+python setup.py sdist bdist_wheel
+```
