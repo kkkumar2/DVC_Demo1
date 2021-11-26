@@ -75,3 +75,9 @@ tox -r    # to reload the pytest environment if any changes done to req.txt
 ```bash
 pytest -v  # to run test functions with
 ```
+
+## to install package locally
+```bash
+pip install -e .
+```
+
