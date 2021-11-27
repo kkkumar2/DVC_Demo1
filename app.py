@@ -3,6 +3,7 @@ import os
 import yaml
 import numpy as np
 import joblib
+import sklearn
 from prediction_service import prediction
 
 params_path = "params.yaml"
