@@ -3,6 +3,10 @@ DVC_Demo1
 
 Demo using dvc and mlops
 
+• A glimpse of the web app:
+
+![GIF](readme_resources/Wineprediction_Demo.gif)
+
 Project Organization
 ------------
 
